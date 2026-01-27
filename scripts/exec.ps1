@@ -17,4 +17,4 @@ Set-Location -Path (Join-Path $PSScriptRoot "..")
 
 # 分析対象の要件リストはローカルに複製して配置してください.
 # requirement_listの実行
-Invoke-Batch -project S0131
+# Invoke-Batch -project project_name
